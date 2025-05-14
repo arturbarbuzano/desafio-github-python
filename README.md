@@ -1,6 +1,6 @@
 # Desafio Github Python
 
-Esse desafio é da minha formação em Github na qual estou entrando e saindo com dados em Python, além de utilizar o Git Bash para adicionar arquivos e commitar alterações.
+Esse desafio é da minha formação em Github na plataforma DIO na qual estou entrando e saindo com dados em Python, além de utilizar o Git Bash para adicionar arquivos e commitar alterações.
 
 ## 1 - Concatenando Dados 🐾
 
