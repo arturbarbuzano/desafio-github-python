@@ -1,6 +1,6 @@
-# desafio-github-python
+# Desafio Github Python
 
-Olá!! Aqui veremos algumas resoluções de códigos em python utilizando o Github Copilot.
+Esse desafio é da minha formação em Github na qual estou entrando e saindo com dados em Python, além de utilizar o Git Bash para adicionar arquivos e commitar alterações.
 
 ## 1 - Concatenando Dados 🐾
 
